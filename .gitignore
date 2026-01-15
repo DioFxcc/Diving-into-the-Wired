@@ -1,0 +1,28 @@
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Backup files
+*.backup
+*.backup.*
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+
+# Shell history
+.bash_history
+.zsh_history
+
+# Neovim
+.config/nvim/plugin/
+.config/nvim/.netrwhist
+
+# System files
+.Trash/
+Thumbs.db
